@@ -1,0 +1,13 @@
+p{
+    float: right ;
+}
+body{
+    background-color: aqua;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: medium;
+    font-style: oblique;
+}
+h1{
+    color: aqua;
+    text-align: center;
+}
